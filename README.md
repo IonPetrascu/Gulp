@@ -12,10 +12,10 @@
 - Working with the SASS(SCSS) preprocessor, style optimization
 - WEBPACK JavaScript bundling, ES6 modules
 - Image optimization, WEBP creation
-- SVG sprites  --> ##npm run svgSprive
+- SVG sprites  --> **npm run svgSprive
 - Font conversion, inclusion recording in SCSS
 - FTP server upload
-- Creating a ZIP archive --> ##npm run zip
+- Creating a ZIP archive --> **npm run zip
 - Error handling
 - Local server, automatic page refresh
 
